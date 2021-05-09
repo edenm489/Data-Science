@@ -29,6 +29,8 @@ Ans: The metric I would use to find the actual Average Order Value is by focusin
 
 The new AOV is 293.715374
 
+Link to code: https://github.com/edenm489/Data-Science/blob/main/Question%201%20Answer.ipynb
+
 ## SQL
 
 ### Question 2a: How many orders were shipped by Speedy Express in total?
