@@ -1,4 +1,4 @@
-# Data-Science
+# Data-Science Challenge
 ### Question 1a) Think about what could be going wrong with our calculation. Think about a better way to evaluate this data 
 
 
